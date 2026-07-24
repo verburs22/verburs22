@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @verburs22!
--  I am a Math and Computer Science student and a Software Intern!
-- 🌱 I’m currently learning Python and full-stack web development
+-  I am a Math and Computer Science recent graduate!
 - 📫 How to reach me: www.linkedin.com/in/sarah-verburg-1b79bb2a8
 - I am just starting out, so if you have any advice or recommendations I would be happy to hear them!
 
